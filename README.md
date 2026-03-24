@@ -55,4 +55,4 @@ if __name__ == '__main__':
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%">
 
-<a href="https://clustrmaps.com/site/1c9je" title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=GIWd4mGL1DQ-F9VMrvJcMhgRf_nG3c6ct-FZfXnjmtY&cl=ffffff" width="100%" /></a>
+<a href="https://clustrmaps.com/site/1c9je" title="ClustrMaps"><img src="https://www.clustrmaps.com/map_v2.png?d=GIWd4mGL1DQ-F9VMrvJcMhgRf_nG3c6ct-FZfXnjmtY&cl=ffffff" width="300" /></a>
