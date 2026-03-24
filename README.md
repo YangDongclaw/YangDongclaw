@@ -51,6 +51,6 @@ if __name__ == '__main__':
 
 <img src="./src/11.gif" width="100%">
 
-![](https://img.shields.io/badge/楊-%E6%9D%B1-brightgreen) `<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">`
+![](https://img.shields.io/badge/楊-%E6%9D%B1-brightgreen) 
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%">
